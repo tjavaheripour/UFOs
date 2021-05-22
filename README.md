@@ -14,7 +14,11 @@ The webpage has a banner on top also shows article summary and brief article whi
 ![Default.PNG](https://github.com/tjavaheripour/UFOs/blob/main/screenshots/Default.PNG)
 
 As you can see, there is a table with information about the UFO Sightings and Filter Search with 5 criteria (date, city, state, country, and shape) which make you able to filter the table. You can filter by one criteria or multiple and the table will return any results matching values.
-Note that there are placeholder text in each box that provide the intended format of the inputs.
+Note that there is a placeholder's text in each box that provide the intended format of the inputs.
+The image below shows what the table would looks once filters have been applied :
+- Date: 1/1/2010
+- State: ca
+- Shape: light 
 
 ### DFiltered table
 ![filtered.png](https://github.com/tjavaheripour/UFOs/blob/main/screenshots/filtered.png)
