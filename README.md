@@ -20,7 +20,7 @@ The image below shows what the table would looks once for example following filt
 - State: ca
 - Shape: light 
 
-### DFiltered table
+### Filtered table
 ![filtered.png](https://github.com/tjavaheripour/UFOs/blob/main/screenshots/filtered.png)
 
 ## Summary
