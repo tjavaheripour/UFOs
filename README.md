@@ -24,8 +24,8 @@ For example, the image below shows how the table summary would look like once th
 ![filtered.png](https://github.com/tjavaheripour/UFOs/blob/main/screenshots/filtered.png)
 
 ## Summary
-- One drawback of this design is that you have to follow just the format that shown in the search box so it could cause errors due to misspelling or don’t pay attention to case sensitivity so I recommend drop-down menu including all filter values, instead of input fields so user can select the data instead of typing
+- One drawback of this design is that you have to follow strictly the format that is shown in the search box for your inputs so it would throw errors if you missplled your input or didn't pay attention to case sensitivity. Thus, I recommend replacing the text boxes with drop-down menus that include all filter values to be selected.
 
-- Another recommendation is to add “Filter” button below search boxes that user click on this button after filling search boxes instead of push Enter.
+- Another recommendation is to add a “Filter” button below the search boxes by clicking on which the search runs.
 
-- Here we have to clear search boxes manually to start new search, so I would highly recommend add “Clear” button that automatically clean inputs of search boxes.
+- Here we have to clear search boxes manually to start a new search, so I would highly recommend adding a “Clear” button that automatically resets value of search boxes.
